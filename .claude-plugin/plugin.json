@@ -1,0 +1,13 @@
+{
+  "name": "qmsroot-audit-checklist",
+  "displayName": "QMSROOT Audit Checklist",
+  "version": "0.1.0",
+  "description": "Turn your own procedure into a tailored, risk-based audit checklist for ISO 13485, MDSAP, ISO 9001, FDA QMSR-style and supplier audits: open questions, evidence to sample, audit trails and blank result columns.",
+  "author": {
+    "name": "QMSROOT"
+  },
+  "homepage": "https://qmsroot.com",
+  "repository": "https://github.com/QMSROOT/qmsroot-audit-checklist",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": ["audit checklist", "internal audit", "supplier audit", "ISO 13485", "MDSAP", "ISO 9001", "QMSR", "quality management", "medical devices"]
+}
