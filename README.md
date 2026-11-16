@@ -56,7 +56,6 @@ The summary is for convenience; [LICENSE.md](LICENSE.md) governs. For permission
 
 ## Contents
 ```
-.claude-plugin/plugin.json   plugin manifest
 .claude-plugin/icon.png      QMSROOT icon
 skills/audit-checklist/      checklist builder + references
 LICENSE.md                   QMSROOT Free-Use Licence
